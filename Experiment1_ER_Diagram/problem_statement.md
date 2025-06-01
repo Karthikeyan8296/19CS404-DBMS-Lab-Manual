@@ -33,7 +33,7 @@ Design a database for patient management, appointments, medical records, and bil
 
 ---
 
-# ER Diagram Submission - JOHN CHRISTOBER T
+# ER Diagram Submission - KARTHIKEYAN P
 
 ## Scenario Chosen:
 University
